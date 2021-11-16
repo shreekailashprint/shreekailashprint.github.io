@@ -61,7 +61,7 @@ i {
 #color-bar {
     width: 700px;
     height: 10px;
-    background-color: darkgreen;
+    background-color: #FF971D;
 }
 
 address {
@@ -72,10 +72,10 @@ address {
 /* 
     MISC
 */
-.color-green {
-    color: darkgreen;
-}
-
 .font-sans-serif {
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.color-orange {
+    color: #FF971D;
 }
